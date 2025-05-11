@@ -1,0 +1,1 @@
+select* from salary_over_50k;
